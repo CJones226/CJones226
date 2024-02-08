@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]
+  - [osTicket: Prerequisites and Installation] (https://github.com/CJones226/osticket-prereqs/tree/main)
   - [osTicket: Post-Installation Configuration]
   - [osTicket: Ticket Lifecycle Examples]
 - <b>Microsoft Active Directory</b>
