@@ -1,16 +1,21 @@
-<h1>Hi, my name is Chris, I am a <a href="https://www.linkedin.com/in/christopher-jones-4a556b2b2/">Certified IT Technician</h1>
+<h1>Hi, I'm Chris, an <a href="www.linkedin.com/in/christopher-jones-c4r1s">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation] (https://github.com/CJones226/osticket-prereqs/tree/main)
-  - [osTicket: Post-Installation Configuration]
-  - [osTicket: Ticket Lifecycle Examples]
-- <b>Microsoft Active Directory</b>
-  - [Preparing Virtual Machine and Controller]
-  - [Setting up Active Directory Within Controller]
-  - [Adding Users, Security Groups, and Permissions]
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
- <h2>Connect With Me:</h2>
- 
- <img allign="left" alt="Chris | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="Chris | GlaassDoor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/glassdoor.svg" />][glassdoor]
+[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chris | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/indeed.svg" />][indeed]
+
+[glassdoor]: https://twitter.com/Josh
+[indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
+[linkedin]: www.linkedin.com/in/christopher-jones-c4r1s
