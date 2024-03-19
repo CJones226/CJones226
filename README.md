@@ -16,6 +16,6 @@
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Chris | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/indeed.svg" />][indeed]
 
-[glassdoor]: https://twitter.com/Josh
+[glassdoor]: https://www.glassdoor.com/member/profile
 [indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
 [linkedin]: www.linkedin.com/in/christopher-jones-c4r1s
