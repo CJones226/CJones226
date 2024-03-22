@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris, an <a href="www.linkedin.com/in/christopher-jones-c4r1s">IT Professional</a></h1>
+<h1>Hi, I'm Chris, an <a href="https://www.linkedin.com/in/christopher-jones-c4r1s">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [glassdoor]: https://www.glassdoor.com/member/profile
 [indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
-[linkedin]: www.linkedin.com/in/christopher-jones-c4r1s
+[linkedin]: https://www.linkedin.com/in/christopher-jones-c4r1s
